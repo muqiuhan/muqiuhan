@@ -1,9 +1,27 @@
-<div align=center>
+## Hi, I'm MuqiuHan
 
-# OCaml/Lisp programmer with Emacs
+### About Me
 
-![MuqiuHan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqiuhan&hide=html,css&layout=compact&theme=radical)
+My Chinese name is 韩暮秋.
 
-![MuqiuHan's Stats](https://github-readme-stats.vercel.app/api?username=muqiuhan&show_icons=true&theme=radical&count_private=true&show_icons=true&")
+Here are some ideas to get you started:
++ Self-study computer and programming technology
++ OCaml && Lisp developer. 
++ Love open source, love guitar, medicine
++ Enjoy life most of the time.
 
-</div>
+Skills: OCaml, Racket, C++, Python, Java
+
+Welcome to my Chinese blog: [muqiuhan.github.io](https://muqiuhan.github.io/)
+
+### Coding Life
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muqiuhan&count_private=true&show_icons=true&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqiuhan&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqiuhan&theme=vue)
+  
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=muqiuhan&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

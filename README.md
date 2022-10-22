@@ -18,7 +18,7 @@ Welcome to my Chinese blog: [muqiuhan.github.io](https://muqiuhan.github.io/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=muqiuhan&count_private=true&show_icons=true&include_all_commits=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqiuhan&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl,JavaScript)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqiuhan&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl,JavaScript,CMake,Lua)
 
 ### Recent Activity
 

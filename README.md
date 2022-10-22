@@ -2,17 +2,14 @@
 
 ### About Me
 
-My Chinese name is 韩暮秋.
-
+I am a person who loves open source very much.
 Here are some ideas to get you started:
-+ Self-study computer and programming technology
-+ OCaml && Lisp developer. 
-+ Love open source, love guitar, medicine
+
++ Freshman student.
++ Passionate about underlying technology.
 + Enjoy life most of the time.
 
-Skills: OCaml, Racket, C++, Python, Java
-
-Welcome to my Chinese blog: [muqiuhan.github.io](https://muqiuhan.github.io/)
+Skills: OCaml, Racket, C++, Python, Java and more.
 
 ### Coding Life
 
@@ -25,3 +22,6 @@ Welcome to my Chinese blog: [muqiuhan.github.io](https://muqiuhan.github.io/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqiuhan&theme=vue)
   
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=muqiuhan&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+*I'll keep my unpolished innocence and freedom doing the purest things away from the hustle and bustle of the city.*
+> 我会保留着自己的那未经雕琢的天真和自由在远离城市喧嚣的地方做着最纯粹的事情.

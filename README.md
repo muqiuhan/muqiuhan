@@ -8,7 +8,7 @@ An unassuming code farmer, a simple folk poet.
 
 ### Working on
 
-<img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" height="100px" width="100px" />
+<img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" height="200px" width="200px" />
   
 ### Languages
 

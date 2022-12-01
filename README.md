@@ -23,10 +23,6 @@ An unassuming code farmer, a simple folk poet.
 <img src="https://www.gnu.org/software/emacs/images/emacs.png" height="50px" width="50px" />
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="50px" width="50px" />
 
-### Coding Life
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=muqiuhan&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
-
 ### Recent Activity
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqiuhan&theme=github_dark&hide_border=true)

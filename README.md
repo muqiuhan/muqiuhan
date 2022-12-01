@@ -2,7 +2,6 @@
 
 # Hi, I'm MuqiuHan
 
-## About Me
 A student with a passion for technology and a love for life.
 An unassuming code farmer, a simple folk poet.
 > 不卑不亢的码农，朴素的民谣诗人

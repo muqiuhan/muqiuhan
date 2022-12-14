@@ -25,11 +25,14 @@ An unassuming code farmer, a simple folk poet.
 <img src="https://www.gnu.org/software/emacs/images/emacs.png" height="50px" width="50px" />
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="50px" width="50px" />
 
+### Coding Life
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muqiuhan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqiuhan&theme=github_dark)
+
 ### Recent Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqiuhan&theme=github_dark&hide_border=true)
-  
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=muqiuhan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqiuhan&theme=github_dark)
 
 *I'll keep my unpolished innocence and freedom doing the purest things away from the hustle and bustle of the city.*
 > 我会保留着自己的那未经雕琢的天真和自由在远离城市喧嚣的地方做着最纯粹的事情.

@@ -11,6 +11,14 @@ An unassuming code farmer, a simple folk poet.
 <a href="https://github.com/X-Files-Institute">
   <img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" height="200px" width="200px" />
 </a>
+  
+### Skills
+
+<img src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-icon.png" height="50px" width="50px" />
+<img src="https://rust-lang.org/logos/rust-logo-256x256.png" height="50px" width="50px" />
+<img src="https://racket-lang.org/img/racket-logo.svg" height="50px" width="50px" />
+<img src="https://fsharp.org/img/logo/fsharp256.png" height="50px" width="50px" />
+<img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/128/Java-icon.png" height="50px" width="50px" />
 
 ### Coding Life
 

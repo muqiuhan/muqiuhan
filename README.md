@@ -26,6 +26,7 @@ Love computer science, traditional Chinese medicine, folk songs. I'm currently w
 - [Annabear: A simple OCaml parser combinators library](https://github.com/muqiuhan/annabear)
 
 #### Operating System
+- [RiscV.NET: RISC-V Emualtor running in the Browser, Native or .NET CLR](https://github.com/muqiuhan/riscv.net)
 - [OpheliaOS: A riscv kernel written in Rust according to the rCore tutorial](https://github.com/muqiuhan/OpheliaOS)
 - [Bonding: A Minimalism container implementation in C++](https://github.com/muqiuhan/bonding)
 

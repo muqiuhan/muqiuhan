@@ -31,12 +31,8 @@ Love computer science, traditional Chinese medicine, folk songs. I'm currently w
 - [OpheliaOS: A riscv kernel written in Rust according to the rCore tutorial](https://github.com/muqiuhan/OpheliaOS)
 - [Bonding: A Minimalism container implementation in C++](https://github.com/muqiuhan/bonding)
 
-#### Distributed & Big data
-- [Corlema: A minimalist distributed file system implementation in Scala](https://github.com/muqiuhan/Corlema)
-
 #### Database
-- [WiscoDB: WiscKey-based key-value database written in OCaml](https://github.com/muqiuhan/wiscodb)
-- [FSMDB: LSM-Tree based Key-Value Store implementation in F#](https://github.com/muqiuhan/Fsmdb)
+- [FSMDB: WiscKey based Key-Value Store implementation in F#](https://github.com/muqiuhan/Fsmdb)
 
 #### Web & Network
 - [Rescript-Tauri: rescript tauri api bindings](https://github.com/muqiuhan/rescript-tauri)

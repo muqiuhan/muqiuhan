@@ -1,7 +1,5 @@
 ## Hi, I'm MuqiuHan
-> 18yo | Medical student | China
-
-Love computer science, traditional Chinese medicine, folk songs. I'm currently working on <a href="https://github.com/X-FRI"> The X-Files Research Institute <img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" height="50px"> </a>
+> 18yo | Medical student | China | currently working on <a href="https://github.com/X-FRI"> The X-Files Research Institute <img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" height="50px"> </a>
 
 ### Skills
 
@@ -19,7 +17,6 @@ Love computer science, traditional Chinese medicine, folk songs. I'm currently w
 </div>
   
 ### Coding Life
-> Here are some projects I wrote while studying
 
 #### Programming language
 - [MLisp: A Lisp implementation in OCaml](https://github.com/muqiuhan/MLisp)

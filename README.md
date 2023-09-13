@@ -19,7 +19,8 @@
 ### Coding Life
 
 #### Programming language
-- [MLisp: A Lisp implementation in OCaml](https://github.com/muqiuhan/MLisp)
+- [Swallow: A statically strongly typed ML dialect that supports polymorphic types, type infer and type checking](https://github.com/X-FRI/Swallow)
+- [MLisp: A simple Lisp implementation](https://github.com/muqiuhan/MLisp)
 - [Fanna: A cross-platform Lua runtime written in F#](https://github.com/muqiuhan/Fanna)
 - [Annabear: A simple OCaml parser combinators library](https://github.com/muqiuhan/annabear)
 
@@ -32,13 +33,14 @@
 - [FSMDB: WiscKey based Key-Value Store implementation in F#](https://github.com/muqiuhan/Fsmdb)
 
 #### Web & Network
+- [BookCafe: Full stack bookcafe online ordering system](https://github.com/muqiuhan/bookcafe)
 - [Rescript-Tauri: rescript tauri api bindings](https://github.com/muqiuhan/rescript-tauri)
 - [Smoall: Minimal, Fast, and Smooth F# Web Server](https://github.com/muqiuhan/Smoall)
-- [Tweater: An weather app written in ClojureScript + Tauri](https://github.com/muqiuhan/tweater)
+- [Tweater: An simple tauri weather app](https://github.com/muqiuhan/tweater)
 
 #### Other
 - [Vercos: A minimalism git-like version control system written in F#](https://github.com/muqiuhan/Vercos)
-- [Simlog: Simple OCaml Log Library, really crude](https://github.com/muqiuhan/simlog)
+- [Dog: A simple MultiCore OCaml logging library based on Domain](https://github.com/muqiuhan/dog)
 
 ---
 

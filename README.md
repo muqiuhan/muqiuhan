@@ -34,8 +34,9 @@
 
 #### Web & Network
 - [BookCafe: Full stack bookcafe online ordering system](https://github.com/muqiuhan/bookcafe)
-- [Rescript-Tauri: rescript tauri api bindings](https://github.com/muqiuhan/rescript-tauri)
 - [Smoall: Minimal, Fast, and Smooth F# Web Server](https://github.com/muqiuhan/Smoall)
+- [HanMQ: A simple message queue based on netty, complete routing distribution using basic topic mode and written in Scala3](https://github.com/muqiuhan/HanMQ)
+- [Rescript-Tauri: rescript tauri api bindings](https://github.com/muqiuhan/rescript-tauri)
 - [Tweater: An simple tauri weather app](https://github.com/muqiuhan/tweater)
 
 #### Other

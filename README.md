@@ -19,7 +19,6 @@
 ### Coding Life
 
 #### Programming language
-- [Swallow: A statically strongly typed ML dialect that supports polymorphic types, type infer and type checking](https://github.com/X-FRI/Swallow)
 - [MLisp: A simple Lisp implementation](https://github.com/muqiuhan/MLisp)
 - [Fanna: A cross-platform Lua runtime written in F#](https://github.com/muqiuhan/Fanna)
 - [Annabear: A simple OCaml parser combinators library](https://github.com/muqiuhan/annabear)

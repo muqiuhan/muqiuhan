@@ -30,7 +30,7 @@ in
 - [Bonding: A Minimalism container implementation in C++](https://github.com/muqiuhan/bonding)
 - [MLisp: A simple Lisp implementation in OCaml](https://github.com/muqiuhan/MLisp)
 - [OpheliaOS: A riscv kernel written in Rust](https://github.com/muqiuhan/OpheliaOS)
-- [Suka: WiscKey based Key-Value Store implementation in F#](https://github.com/muqiuhan/Suka)
+- [HooBank: Modern UI/UX website using React & Tailwind CSS written in Rescript](https://github.com/muqiuhan/Hoobank)
 - [ophelia: A minimalist imperative language compiled to RISC-V for OpheliaOS](https://github.com/muqiuhan/ophelia)
 - [Fanna: A cross-platform Lua runtime written in F#](https://github.com/muqiuhan/Fanna)
 - [RiscV.NET: RISC-V Emualtor running in the Browser, Native or .NET CLR](https://github.com/muqiuhan/riscv.net)

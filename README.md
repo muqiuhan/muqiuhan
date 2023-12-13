@@ -25,27 +25,6 @@ in
 
 </div>
 
----
-
-- [Bonding: A Minimalism container implementation in C++](https://github.com/muqiuhan/bonding)
-- [Lit: A minimalism git-like version control system written in Rust](https://github.com/muqiuhan/lit)
-- [Fanna: A cross-platform Lua runtime written in F#](https://github.com/muqiuhan/Fanna)
-- [RiscV.NET: RISC-V Emualtor running in the Browser, Native or .NET CLR](https://github.com/muqiuhan/riscv.net)
-- [Cache-Lite: An extremely lightweight cache framework in any programming language/platform.](https://github.com/muqiuhan/Cache-Lite)
-- [OpheliaOS: A riscv kernel written in Rust](https://github.com/muqiuhan/OpheliaOS)
-- [Swallow: A simple Lisp implementation in OCaml](https://github.com/muqiuhan/MLisp)
-- [HooBank-Rescript: Modern UI/UX website using React & Tailwind CSS written in Rescript](https://github.com/muqiuhan/Hoobank-Rescript)
-- [ophelia: A minimalist imperative language compiled to RISC-V for OpheliaOS](https://github.com/muqiuhan/ophelia)
-- [HanMQ: A simple message queue based on netty, complete routing distribution using basic topic mode and written in Scala3](https://github.com/muqiuhan/HanMQ)
-- [Annabear: A simple OCaml parser combinators library](https://github.com/muqiuhan/annabear)
-- [BookCafe: Full stack bookcafe online ordering system](https://github.com/muqiuhan/bookcafe)
-- [Simlog: A simple OCaml logging library](https://github.com/muqiuhan/dog)
-- [Smoall: Minimal, Fast, and Smooth F# Web Server](https://github.com/muqiuhan/Smoall)
-- [Rescript-Tauri: rescript tauri api bindings](https://github.com/muqiuhan/rescript-tauri)
-- [Tweater: An simple tauri weather app](https://github.com/muqiuhan/tweater)
-
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqiuhan&layout=pie&theme=transparent&exclude_repo=qemu-7.1.0-riscv64&langs_count=10&hide=html,css,cmake,stylus,ejs)
 
-</div>
+[Click to see all the projects I'm working on](https://github.com/muqiuhan?tab=repositories)

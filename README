@@ -8,20 +8,20 @@ o- community doctor, programmer, farmer
 | Disaster and Emergency Medicine |
 +---------------------------------+
 
-Computer Science/Software
-  +------------------+
-  | Operating System |
-  | Compiler         |
-  | Database System  |
-  | Web              |
-  +------------------+
+     Computer Science/Software
+       +------------------+
+       | Operating System |
+       | Compiler         |
+       | Database System  |
+       | Web              |
+       +------------------+
 
-Most commonly used language
-       +--------
-       | F#    |
-       | OCaml |
-       | C++   |
-       | Rust  |
-       | Scala |
-       | ...   |
-       +-------+
+        Most used language
+            +-------+
+            | F#    |
+            | OCaml |
+            | C++   |
+            | Rust  |
+            | Scala |
+            | ...   |
+            +-------+

@@ -1,32 +1,12 @@
-Hi there, I'm Somhairle H. Marisol, from China, 20yo.
+Passionate software developer with a strong focus on building innovative solutions.
+Experienced in various programming languages and frameworks, with a keen interest in open-source contributions.
+Committed to continuous learning and collaboration within the tech community.
 
-o- 📒 Website:
-  - zh_CN: https://muqiuhan.github.io
-
-o- ⛰️ Projects
-  + MLisp (OCaml): A Lisp dialect implementation in OCaml.
-    - https://github.com/muqiuhan/mlisp
-  
-  + Bonding (C++): A Minimalism container implementation in C++.
-    - https://github.com/muqiuhan/bonding
-  
-  + HanMQ (Scala): A simple message queue based on netty.
-    - https://github.com/muqiuhan/hanmq
-  
-  + Swallow (C++): A functional programming language.
-    - https://github.com/muqiuhan/swallow
-  
-  + Tomorrow (TypeScript): A simple mobile app for finance and cryptocurrency.
-    - https://github.com/muqiuhan/tomorrow
-  
-  + RISCV.NET (F#): RISC-V Emualtor running in the Browser, Native or .NET CLR
-    - https://github.com/muqiuhan/riscv.net
-  
-  + Toocal (C++): Minimalist nosql database system.
-    - https://github.com/muqiuhan/toocal
-
-o- 💻 I'm currently working at ClinWise. 
-  
-  In my spare time I work with OCaml, F#, Scala, Rust and C++. 
-  
-  I am interested in programming language, database system, operating system and distributed system.
+o- 🧑 NAME: Somhairle H. Marisol
+o- 🏙 FROM: China
+o- 👶 AGE: 20
+o- 📒 PERSONAL WEBSITE: https://muqiuhan.github.io
+o- 💻 WORKING AT: ClinWise. 
+o- ⛰️ SKILLS: Web (Svelte React, NestJS), Mobile (RN, Kivy), Operations (Linux, CI/CD)
+o- 🔧 PROGRAMMING LANGUAGES: OCaml, F#, Scala, Rust, C++, Rescript, Python
+o- ♥️ HOBBY: Compiler, FP, DB, OS, Distributed System
